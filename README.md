@@ -3,7 +3,6 @@ Technologies Used
 Frontend:
 
 React
-Vite
 
 Backend:
 
